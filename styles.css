@@ -17,8 +17,8 @@ section.about
     padding: 15px;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: #4285F4;
-    filter: drop-shadow(0 0 0.75rem black);
+    background-color: hsl(286, 48%, 83%);
+    filter: drop-shadow(0 0 0.75rem rgb(38, 6, 60));
     display: flex;
 }
 
@@ -79,5 +79,5 @@ button
     text-align: center;
     font-size: 16px;
     cursor: pointer;
-    background-color: #34a853;
+    background-color: #85d9e8;
 }
